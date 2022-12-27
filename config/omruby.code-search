@@ -1,0 +1,9 @@
+# Query: omruby
+# ContextLines: 1
+
+1 result - 1 file
+
+config/environments/production.rb:
+  62    # config.active_job.queue_adapter     = :resque
+  63:   # config.active_job.queue_name_prefix = "omrails_production"
+  64  
